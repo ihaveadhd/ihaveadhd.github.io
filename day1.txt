@@ -91,3 +91,119 @@ I should make these journal entries into a website.
 It'll be bad but I'm going to do it.
 
 ------------------------------------
+
+I made these into a website.
+
+I forgot about the CSV generator.
+It worked.
+Parquet converter works too.
+
+------------------------------------
+
+Almost bought a new backpack today.
+I already have like 10 between the ones I use and all the college merch.
+It's a dope bag though.
+
+------------------------------------
+
+I am now credit card debt free.
+I pay my cards off every week but I always like seeing the balance at zero.
+
+My draftkings order got filled.
+Probably means that the damn thing is going to tank.
+At lest I didn't buy an all time high.
+
+------------------------------------
+
+I don't remember what I've been doing the past hour, I zoned.
+
+Did some updates to my fantasy football rosters.
+
+Damn Chargers bye week change killed me.
+
+Cleaned up my room a bit.
+It's still a bit messy.
+
+------------------------------------
+
+Spent some time looking at hedges for election season.
+I'm not saying that there's going to be a dip but, you know, there might be.
+
+------------------------------------
+
+I need to get back to work.
+
+------------------------------------
+
+Ok, 20 minutes and I figured out what I was working on again.
+
+I remembered what I needed to do next.
+
+I got up to get a drink of water.
+
+I forgot.
+
+------------------------------------
+
+I got caught up in an options strategy back test.
+It's a decent strat but I need to be able to see the future to make it work.
+
+What was I working on again?
+
+Parquet data generation.
+
+How long do I have to be on this medication for it to start to really kick in?
+Is this a 'you have to build it up' kind of thing?
+Or is it supposed to work day 1?
+
+If it's supposed to work day 1, it's not working.
+
+We'll figure this out, no doubt.
+
+I'll ask almost Dr. Ben this weekend too.
+
+------------------------------------
+
+Work. Right.
+
+My ssh died.
+
+------------------------------------
+
+I will beat Tyler off of this god damn board of shame!
+
+Dockerfile rebuild started.
+
+Needed a new repo but whatever.
+Best practices are boring.
+
+------------------------------------
+
+I just went for like 15 minutes without blinking.
+
+------------------------------------
+
+It's 6:27 PM
+
+I've been completely unfocused for the past 3 and a half hours.
+
+I've read about a page of 3 different books.
+I don't remember any of what I've read.
+
+I've changed shows/movies a dozen times.
+
+I completely forgot about the data generation and migrations I've been running.
+
+It took me an hour to order dinner because I kept getting distracted.
+Instagram, book, book, TV, code, Instagram, TV, push ups, etc...
+You know the drill.
+
+------------------------------------
+
+Calling it a night.
+
+Didn't feel any difference today.
+
+Will try to rememeber to update with details of the rest of the night tomorrow.
+
+We'll figure it out.
