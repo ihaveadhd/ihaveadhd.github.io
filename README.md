@@ -1,10 +1,7 @@
 # ihaveadhd.github.io
 
-Pre meds:
+Just a mind tracker for how my days go.
 
-- [A day in the life][./day0.txt]
+I want to see the evolution of my thought process while taking medication.
 
-Post meds:
-
-- [5 mg extended release - day 1][./day1.txt]
-
+Dosage and dates are included in the passages.
