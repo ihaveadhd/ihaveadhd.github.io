@@ -2,7 +2,7 @@
 
 cd ..
 
-entries=$(ls days)
+entries=$(ls entries)
 
 for i in $entries; do
     echo $i
